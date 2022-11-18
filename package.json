@@ -6,7 +6,7 @@
     "main": "index.js",
     "directories": {
         "system": "system",
-        "database": "system/database",
+    
         "plugins": "plugins"
     },
     "scripts": {
